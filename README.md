@@ -1,6 +1,7 @@
 # 🌦 Weather App
 
 A sleek and simple weather app built using HTML, CSS, and JavaScript — powered by the OpenWeatherMap API.
+Here is the link to the deployed website - [Weather App](https://swastikweatherapp.pages.dev/)
 
 
 ---
