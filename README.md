@@ -1,9 +1,7 @@
-# Weather-App
 # 🌦 Weather App
 
 A sleek and simple weather app built using HTML, CSS, and JavaScript — powered by the OpenWeatherMap API.
 
-> ⚔ A practice project forged in the fires of code discipline, designed to slay bugs and summon real-time weather data with elegance.
 
 ---
 
