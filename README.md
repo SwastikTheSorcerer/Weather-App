@@ -1,4 +1,4 @@
-# 🌦 Weather App
+# 🌦 Simple Weather App
 
 A sleek and simple weather app built using HTML, CSS, and JavaScript — powered by the OpenWeatherMap API.
 
